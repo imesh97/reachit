@@ -8,7 +8,7 @@ function db() {
 
     // MySQL login information
     $servername = "localhost";
-    $username = "imesh";
+    $username = "user";
     $password = "pass";
     $dbname = "reachit";
 
